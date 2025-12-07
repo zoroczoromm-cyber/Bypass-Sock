@@ -1,0 +1,6 @@
+{
+  "version": "1.9",
+  "download_url": "https://github.com/zoroczoromm-cyber/Bypass-Sock/raw/refs/heads/main/assets.zip",
+  "changelog": "更新新的防封，请使用VPN，否则会下载失败",
+  "mandatory": false
+}
